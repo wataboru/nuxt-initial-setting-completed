@@ -2,6 +2,13 @@
 
 > description
 
+## init Setup
+
+```bash
+$ chmod 755 init.sh
+$ sh init.sh 'ProjectName' 'Project description' 
+```
+
 ## Build Setup
 
 ```bash
